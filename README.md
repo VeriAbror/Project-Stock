@@ -37,7 +37,7 @@ Aplikasi ini terdiri dari beberapa modul fragment utama:
 
 1.  **Clone Repository**:
     ```bash
-    git clone [https://github.com/USERNAME/ProjectStok.git](https://github.com/USERNAME/ProjectStok.git)
+    git clone https://github.com/VeriAbror/Project-Stock.git
     ```
 2.  **Buka di Android Studio**:
     *   Pilih `File > Open`, lalu arahkan ke folder `ProjectStok`.
